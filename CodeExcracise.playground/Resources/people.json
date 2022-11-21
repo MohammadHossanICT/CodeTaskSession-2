@@ -1,0 +1,34 @@
+
+let json = """
+{
+ "id": "1",
+ "options": [
+ {
+ "id": "11",
+ "options": [
+ {
+ "id": "111",
+ "options": []
+ }
+ ]
+ },
+ {
+ "id": "2",
+ "options": [
+ {
+ "id": "21",
+ "options": []
+ },
+ {
+ "id": "22",
+ "options": [
+ {
+ "id": "221",
+ "options": []
+ }
+ ]
+ }
+ ]
+ }
+ ]
+}
